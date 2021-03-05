@@ -1,4 +1,4 @@
-# Link URL
+## Link URL
 https://downey920.github.io/CarrotGame/
 
 # CarrotGame
