@@ -1,3 +1,6 @@
+# Link URL
+https://downey920.github.io/CarrotGame/
+
 # CarrotGame
 HTML CSS JavaScript
 기본적으로 게임 시작 버튼을 누르면 벌레와 당근이 랜덤한 위치에 뿌려진다.
